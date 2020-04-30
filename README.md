@@ -31,6 +31,7 @@ A collection of dotfiles - my current Arch Linux configuration files
     + *Gtk*
     + *KDE*
 + *Papirus* - Icon Theme
++ *capitaine-cursors-light* - Cursor Theme
 
 ## FONTS USED
 + [Fira Code Nerd Font](https://www.nerdfonts.com/font-downloads "Fira Code Nerd Font") - Editor font
